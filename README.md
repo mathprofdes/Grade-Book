@@ -24,3 +24,10 @@ The software was created using the older Java Swing API, so the appearance is a 
 - Copy, saving, and printing options on all chart windows and data sheets.
 - Printing and LaTeX export options for class and student reports. 
 - Projection calculations for student averages. 
+
+--- 
+
+**Third-Party Software Used**
+
+- Oracle Help for Java: (Oracle): The help system.
+- JFreeChart: (by David Gilbert): Renders all of the bar charts in the program.
