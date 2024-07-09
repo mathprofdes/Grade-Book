@@ -25,6 +25,12 @@ The software was created using the older Java Swing API, so the appearance is a 
 - Printing and LaTeX export options for class and student reports. 
 - Projection calculations for student averages. 
 
+---
+
+**Screenshot**
+
+![Screenshot of program.](/Version_1_2_1/MainWindow.png)
+
 --- 
 
 **Third-Party Software Used**
