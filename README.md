@@ -1,14 +1,20 @@
 # Grade Book
 
-The Grade Book program is simply another electronic grade book for storing and reporting student grades.  With the multitude of grade book programs incorporated into content management systems as well as stand-alone packages the world hardly needs another.  Nonetheless, this is a program I developed a while back and still find useful alongside the other systems. 
+**Download the Current Version (1.2.1)**
 
-This is a Java application, so if the Java JRE is not installed on your computer download and install the current version of the Java JRE (Version 8 or later). You can get the most current version at the Java Web Site.
+**Prerequisite:** If the Java JRE is not installed on your computer download and install the current version of the Java JRE (Version 8 or later).
 
-The software is being distributed as an executable jar file. In most cases you can simply download the Gradebook.jar file (raw file), from the version directory and double-click it from your system's file browser. You can also run it from the command-line with
+The software is being distributed as an executable jar file. 
 
-java -jar Gradebook.jar
+- Download the **[Gradebook.jar](https://github.com/mathprofdes/Grade-Book/releases/download/v1.2.1/Gradebook.jar)** file.
+- In most cases you can simply double-click it from your system's file browser. You can also run it from the command-line with
+`java -jar Gradebook.jar`
 
-The software was created using the older Java Swing API, so the appearance is a little retro. This software has been tested on Windows 10 and 11, Linux Mint 21, and MacOS Mojave.
+---
+
+**Program Description**
+
+The Grade Book program is simply another electronic grade book for storing and reporting student grades.  With the multitude of grade book programs incorporated into content management systems as well as stand-alone packages the world hardly needs another.  Nonetheless, this is a program I developed a while back and still find useful alongside the other systems. The software was created using the older Java Swing API, so the appearance is a little retro. This software has been tested on Windows 10 and 11, Linux Mint 21, and MacOS Mojave.
 
 **Program Features**
 
